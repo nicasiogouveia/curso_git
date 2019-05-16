@@ -1,0 +1,4 @@
+1 - Nicásio Gouveia
+2
+3 vet<-c(2,3,4,5,6)
+4 vet
